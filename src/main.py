@@ -33,14 +33,26 @@ while True:
     print("Total Digital Distraction:", distraction, "hours")
 
     if distraction >= 8:
-        print("Productivity Level: Low")
-        print("Suggestion: Reduce screen time and focus more on important tasks")
+       print("Productivity Level: Low")
+       print("Suggestions:")
+       print("• Limit social media usage to 1-2 hours per day")
+       print("• Set a daily study/work schedule")
+       print("• Keep your phone away while studying")
+       print("• Try work for 25-minutes then 5-minutes break (Pomodoro technique)")
     elif distraction >= 4:
         print("Productivity Level: Medium")
-        print("Suggestion: Try to balance screen time and productive work")
+        print("Suggestions:")
+        print("• Reduce unnecessary screen time gradually")
+        print("• Plan your day with clear goals")
+        print("• Take short breaks instead of long scrolling sessions")
+        print("• Focus on completing important tasks first")
     else:
-        print("Productivity Level: High")
-        print("Suggestion: Keep maintaining your good habits")
+       print("Productivity Level: High")
+       print("Suggestions:")
+       print("• Maintain your current routine")
+       print("• Keep tracking your screen time regularly")
+       print("• Try learning new skills in free time")
+       print("• Stay consistent and avoid distractions")
 
     # Feedback section
     while True:
@@ -66,5 +78,6 @@ while True:
             exit()
         else:
             print("Invalid input, please enter 'yes' or 'no'.")
+
 
 
