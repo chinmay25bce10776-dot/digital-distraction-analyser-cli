@@ -14,13 +14,13 @@ It takes user input and applies decision-making logic (if-else conditions) to cl
 
 ## Features
 
-1) User input for daily screen time
-2) Activity analysis and productivity classification
-3) Practical suggestions based on usage
-4) Input validation (only numbers allowed)
-5) Attempt limit system (maximum 3 invalid attempts)
-6) Feedback system (yes/no)
-7) Loop for repeated analysis
+1) User input for daily screen time.
+2) Activity analysis and productivity classification.
+3) Practical suggestions based on usage.
+4) Input validation (only numbers allowed).
+5) Attempt limit system (maximum 3 invalid attempts).
+6) Feedback system (yes/no).
+7) Loop for repeated analysis.
 
 ## Technologies Used
 
@@ -45,11 +45,11 @@ Follow these steps to test the system:
 
 ## Test Different Cases
 
-1) Enter valid inputs (numbers) and observe correct output
-2) Enter invalid inputs (like letters) to test validation
-3) Try entering wrong input 3 times to check attempt limit
-4) Give feedback (yes/no) and observe system response
-5) Use the loop feature to test multiple cases
+1) Enter valid inputs (numbers) and observe correct output.
+2) Enter invalid inputs (like letters) to test validation.
+3) Try entering wrong input 3 times to check attempt limit.
+4) Give feedback (yes/no) and observe system response.
+5) Use the loop feature to test multiple cases.
 
 ## Made By
 
