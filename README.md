@@ -1,10 +1,10 @@
-# Digital Distraction Analyzer (CLI)
+# Digital Distraction Analyser (CLI)
 
 ## Overview
 
-This project is developed as part of the AIML BYOP. It is a CLI-based system that analyzes a user's daily digital usage and provides suggestions to improve productivity.
+This project is developed as part of the AIML BYOP. It is a CLI-based system that analyses a user's daily digital usage and provides suggestions to improve productivity.
 
-The system takes input like screen time (YouTube, social media, gaming) and gives feedback based on the user's habits. The goal is to help users understand their digital behavior and make better decisions.
+The system takes input like screen time (YouTube, social media, gaming) and gives feedback based on the user's habits. The goal is to help users understand their digital behaviour and make better decisions.
 
 ## AI Concept Used
 
@@ -29,11 +29,11 @@ It takes user input and applies decision-making logic (if-else conditions) to cl
 
 ## How to Run the Program
 
-1) Make sure Python is installed and added to Path.
-2) Open terminal or command prompt.
+1) Make sure Python is installed and added to the path.
+2) Open a terminal or command prompt.
 3) Navigate to the project folder.
 4) Go inside the src folder: (cd src)
-5) Run the program using : python main.py
+5) Run the program using: python main.py
 
 ## How to Test the Program
 
@@ -45,9 +45,9 @@ Follow these steps to test the system:
 
 ## Test Different Cases
 
-1) Enter valid inputs (numbers) and observe correct output.
+1) Enter valid inputs (numbers) and observe the correct output.
 2) Enter invalid inputs (like letters) to test validation.
-3) Try entering wrong input 3 times to check attempt limit.
+3) Try entering wrong input 3 times to check the attempt limit.
 4) Give feedback (yes/no) and observe system response.
 5) Use the loop feature to test multiple cases.
 
